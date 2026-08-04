@@ -6,40 +6,7 @@ layout: homepage
 
 I'm currently a sophomore undergraduate in the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), pursuing a Bachelor's degree in Computer Science and Technology. I will be joining the [University of Washington](https://www.washington.edu/) as an exchange student in Autumn Quarter 2026.
 
-Currently, I am serving as a research intern at [MARS Lab](http://group.iiis.tsinghua.edu.cn/~marslab/), Tsinghua University, under the supervision of [Prof. Hang Zhao](https://hangzhaomit.github.io/) and [Dr. Shaoting Zhu](https://shaotingzhu.github.io/). Prior to this, I was fortunate to work with Prof. Yushen Liu and Weiqi Zhang at the School of Software, Tsinghua University.
-
-<details>
-<summary>Some picture options: <em>(I'll try to keep this up to date)</em></summary>
-<link rel="stylesheet" href="./assets/css/simple-slider.css">
-<div class="simple-gallery">
-  <text style="text-align: left;">Inspired by <a href="https://people.eecs.berkeley.edu/~pabbeel/">Pieter Abbeel</a>'s homepage.</text>
-  <div style="height: 0.5em;"></div>
-  <div class="gallery-container">
-    <div class="gallery-item active">
-      <img class="gallery-img" src="./assets/img/howth.jpg" alt="Howth">
-      <div class="gallery-caption">Welcome to Howth / Fáilte go Binn Éadair 🌊</div>
-    </div>
-    <div class="gallery-side-nav">
-      <button class="gallery-btn prev" aria-label="Previous image">
-        <svg viewBox="0 0 50 80" width="16" height="16" xml:space="preserve">
-          <polyline fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" points="45,75 5,40 45,5"></polyline>
-        </svg>
-      </button>
-      <button class="gallery-btn next" aria-label="Next image">
-        <svg viewBox="0 0 50 80" width="16" height="16" xml:space="preserve">
-          <polyline fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" points="5,5 45,40 5,75"></polyline>
-        </svg>
-      </button>
-    </div>
-  </div>
-  <div class="gallery-nav">
-    <div class="gallery-dots">
-      <span class="gallery-dot active" data-index="0"></span>
-    </div>
-  </div>
-</div>
-<script src="./assets/js/simple-gallery.js"></script>
-</details>
+Currently, I am serving as a research intern at [MARS Lab](http://group.iiis.tsinghua.edu.cn/~marslab/), Tsinghua University, under the supervision of [Prof. Hang Zhao](https://hangzhaomit.github.io/) and [Dr. Shaoting Zhu](https://shaotingzhu.github.io/). Prior to this, I was fortunate to work with [Prof. Yushen Liu](https://yushen-liu.github.io/) and [Weiqi Zhang](https://scholar.google.com/citations?user=sp3zrnYAAAAJ&hl=zh-CN) at the School of Software, Tsinghua University.
 
 ## Research Interests
 
@@ -85,7 +52,7 @@ My long-term research goal is to develop **general-purpose intelligent robots** 
 - **School of Software, Tsinghua University**  
   **Research Intern** (3D Vision & Generative Models): Jul. 2025 – Oct. 2025.  
   _Topics_: Diffusion models for 3D part assembly, 3D vision pipelines.  
-  **Advisors**: Prof. Yushen Liu, Weiqi Zhang.
+  **Advisors**: [Prof. Yushen Liu](https://yushen-liu.github.io/), [Weiqi Zhang](https://scholar.google.com/citations?user=sp3zrnYAAAAJ&hl=zh-CN).
 
 ## Honors & Awards
 
@@ -96,3 +63,14 @@ My long-term research goal is to develop **general-purpose intelligent robots** 
 - **Languages:** English (TOEFL iBT Revised: Official Band 5.0, raw score 21/24), Mandarin (Native).
 - **Programming & Tools:** Python, C++, PyTorch, Bash, Git, LaTeX.
 - **Libraries & Simulation:** MeshLab, CloudCompare, Blender, Isaac Lab, InstinctLab.
+
+## Gallery
+
+A few photos I've taken along the way.
+
+<div class="photo-gallery">
+  <figure>
+    <img src="./assets/img/howth.jpg" alt="Howth">
+    <figcaption>Howth, Ireland — Fáilte go Binn Éadair</figcaption>
+  </figure>
+</div>
