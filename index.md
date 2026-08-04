@@ -72,8 +72,56 @@ A few photos I've taken along the way.
 <div class="simple-gallery">
   <div class="gallery-container">
     <div class="gallery-item active">
+      <img class="gallery-img" src="./assets/img/yuanmingyuan.jpg" alt="Yuanmingyuan">
+      <div class="gallery-caption">Yuanmingyuan, Beijing, China — sunset after rain · Aug. 2026</div>
+    </div>
+    <div class="gallery-item">
+      <img class="gallery-img" src="./assets/img/mongol.jpg" alt="Hexigten">
+      <div class="gallery-caption">Hexigten, Inner Mongolia — road trip on the grassland · Jun. 2026</div>
+    </div>
+    <div class="gallery-item">
+      <img class="gallery-img" src="./assets/img/tsinghua.jpg" alt="Tsinghua">
+      <div class="gallery-caption">Tsinghua, Beijing — playground under sunset after rain · Apr. 2026</div>
+    </div>
+    <div class="gallery-item">
+      <img class="gallery-img" src="./assets/img/AltarofEarth.jpg" alt="Ditan">
+      <div class="gallery-caption">Ditan, Beijing — Ocean of Ditan, Shi Tiesheng wrote · Mar. 2026</div>
+    </div>
+    <div class="gallery-item">
+      <img class="gallery-img" src="./assets/img/lattern.jpg" alt="Xi'an City Wall">
+      <div class="gallery-caption">Xi'an, China — lanterns on the City Wall · Spring Festival, Feb. 2026</div>
+    </div>
+    <div class="gallery-item">
       <img class="gallery-img" src="./assets/img/howth.jpg" alt="Howth">
-      <div class="gallery-caption">Howth, Ireland — Fáilte go Binn Éadair</div>
+      <div class="gallery-caption">Howth, Ireland — Fáilte go Binn Éadair  · Jan. 2026</div>
+    </div>
+    <div class="gallery-item">
+      <img class="gallery-img" src="./assets/img/kensingtongarden.jpg" alt="Kensington Gardens">
+      <div class="gallery-caption">Kensington Gardens, England · Jan. 2026</div>
+    </div>
+    <div class="gallery-item">
+      <img class="gallery-img" src="./assets/img/firework.jpg" alt="Firework on an aircraft carrier">
+      <div class="gallery-caption">Tianjin, China - huge Tiananmen‑patterned fireworks over an aircraft carrier · Oct. 2025</div>
+    </div>
+    <div class="gallery-item">
+      <img class="gallery-img" src="./assets/img/donglingshan.jpg" alt="Mount Dongling">
+      <div class="gallery-caption">Zhangjiakou, China - Early‑autumn mountain ranges· Sep. 2025</div>
+    </div>
+    <div class="gallery-item">
+      <img class="gallery-img" src="./assets/img/chengdu.jpg" alt="Laojun Mountain Golden Summit">
+      <div class="gallery-caption">Laojun Mountain, Luoyang - Golden Hall built atop a 2217‑meter‑high mountain peak · Aug. 2025</div>
+    </div>
+    <div class="gallery-item">
+      <img class="gallery-img" src="./assets/img/laojunshan.jpg" alt="Laojunshan">
+      <div class="gallery-caption">Sanxingdui, Chengdu - 3100‑year‑old bronze relic of the Ancient‑Shu Culture · Jun. 2025</div>
+    </div>
+    <div class="gallery-item">
+      <img class="gallery-img" src="./assets/img/dalian.jpg" alt="Qixian Ridge">
+      <div class="gallery-caption">Qixian Ridge, Dalian - Coastal forest park overlooking the Yellow Sea · May. 2025</div>
+    </div>
+    <div class="gallery-item">
+      <img class="gallery-img" src="./assets/img/greatwall.jpg" alt="Shuiguan Great Wall">
+      <div class="gallery-caption">Yanqing, Beijing - Ming‑dynasty Great Wall built through mountain valley · Oct. 2024</div>
     </div>
     <div class="gallery-side-nav">
       <button class="gallery-btn prev" aria-label="Previous image">
@@ -91,6 +139,18 @@ A few photos I've taken along the way.
   <div class="gallery-nav">
     <div class="gallery-dots">
       <span class="gallery-dot active" data-index="0"></span>
+      <span class="gallery-dot" data-index="1"></span>
+      <span class="gallery-dot" data-index="2"></span>
+      <span class="gallery-dot" data-index="3"></span>
+      <span class="gallery-dot" data-index="4"></span>
+      <span class="gallery-dot" data-index="5"></span>
+      <span class="gallery-dot" data-index="6"></span>
+      <span class="gallery-dot" data-index="7"></span>
+      <span class="gallery-dot" data-index="8"></span>
+      <span class="gallery-dot" data-index="9"></span>
+      <span class="gallery-dot" data-index="10"></span>
+      <span class="gallery-dot" data-index="11"></span>
+      <span class="gallery-dot" data-index="12"></span>
     </div>
   </div>
 </div>
