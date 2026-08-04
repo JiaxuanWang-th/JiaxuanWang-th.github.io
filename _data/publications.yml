@@ -1,0 +1,16 @@
+# 发表论文列表
+# 复制下面示例并取消注释；没有论文时保持 main 为空即可
+main: []
+
+# 示例（取消注释并改成你的内容）：
+# main:
+#   - title: "Paper Title"
+#     authors: <strong>Your Name</strong>, Coauthor A, Coauthor B
+#     conference_short: CVPR
+#     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.
+#     pdf: https://arxiv.org/pdf/xxxx.xxxxx.pdf
+#     code: https://github.com/JiaxuanWang-th/...
+#     page: https://...
+#     bibtex: https://...
+#     image: ./assets/img/teaser_example.png
+#     notes: Oral
