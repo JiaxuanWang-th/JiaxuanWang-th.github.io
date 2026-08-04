@@ -68,9 +68,30 @@ My long-term research goal is to develop **general-purpose intelligent robots** 
 
 A few photos I've taken along the way.
 
-<div class="photo-gallery">
-  <figure>
-    <img src="./assets/img/howth.jpg" alt="Howth">
-    <figcaption>Howth, Ireland — Fáilte go Binn Éadair</figcaption>
-  </figure>
+<link rel="stylesheet" href="./assets/css/simple-slider.css">
+<div class="simple-gallery">
+  <div class="gallery-container">
+    <div class="gallery-item active">
+      <img class="gallery-img" src="./assets/img/howth.jpg" alt="Howth">
+      <div class="gallery-caption">Howth, Ireland — Fáilte go Binn Éadair</div>
+    </div>
+    <div class="gallery-side-nav">
+      <button class="gallery-btn prev" aria-label="Previous image">
+        <svg viewBox="0 0 50 80" width="16" height="16" xml:space="preserve">
+          <polyline fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" points="45,75 5,40 45,5"></polyline>
+        </svg>
+      </button>
+      <button class="gallery-btn next" aria-label="Next image">
+        <svg viewBox="0 0 50 80" width="16" height="16" xml:space="preserve">
+          <polyline fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" points="5,5 45,40 5,75"></polyline>
+        </svg>
+      </button>
+    </div>
+  </div>
+  <div class="gallery-nav">
+    <div class="gallery-dots">
+      <span class="gallery-dot active" data-index="0"></span>
+    </div>
+  </div>
 </div>
+<script src="./assets/js/simple-gallery.js"></script>
