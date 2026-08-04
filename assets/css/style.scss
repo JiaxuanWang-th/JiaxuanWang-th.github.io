@@ -2,3 +2,32 @@
 ---
 
 @import "minimal-light";
+
+/* Keep sidebar avatar a clean circle (theme #header selector never matches <header>) */
+header .image.avatar {
+  display: inline-block;
+  width: 8.5em;
+  margin: 0 0 1em 0;
+  border-radius: 100%;
+}
+
+header .image.avatar img {
+  width: 100%;
+  height: auto;
+  padding: 0;
+  border-radius: 100%;
+  object-fit: cover;
+  aspect-ratio: 1 / 1;
+}
+
+@media print, screen and (max-width: 960px) {
+  header .image.avatar {
+    width: 117px;
+  }
+}
+
+@media print, screen and (max-width: 480px) {
+  header .image.avatar {
+    width: 95px;
+  }
+}

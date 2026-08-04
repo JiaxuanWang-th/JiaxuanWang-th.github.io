@@ -7,7 +7,7 @@ main:
     pdf: https://arxiv.org/pdf/2602.02331.pdf
     page: https://ttt-parkour.github.io
     notes: "*† Equal contribution"
-    # image: ./assets/img/teaser_example.png
+    image: ./assets/img/ttt_parkour_teaser.jpg
 
 # 示例字段：
 #   code: https://github.com/JiaxuanWang-th/...

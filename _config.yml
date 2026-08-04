@@ -1,6 +1,7 @@
 title: Jiaxuan Wang
-position: Student
+position: Undergraduate Student
 affiliation: Tsinghua University
+affiliation_link: https://www.tsinghua.edu.cn/en/
 email: wang-jx24@mails.tsinghua.edu.cn
 chinese_name: 王嘉璇
 
@@ -15,7 +16,7 @@ github_link: https://github.com/JiaxuanWang-th
 # twitter: https://twitter.com/
 
 # Images
-avatar: ./assets/img/photo.png
+avatar: ./assets/img/avatar.jpg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
