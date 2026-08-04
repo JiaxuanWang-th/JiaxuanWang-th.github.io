@@ -4,81 +4,60 @@ layout: homepage
 
 ## About Me
 
-<!-- 在这里写自我介绍 -->
+I am a sophomore undergraduate in the Department of Computer Science and Technology at Tsinghua University (GPA: 3.9/4.0, Rank: 7/168). I am an incoming exchange student at the University of Washington for Autumn Quarter 2026.
 
-I am currently ...
+I am currently a research intern at MARS Lab, Tsinghua University, supervised by Prof. Hang Zhao and Dr. Shaoting Zhu. Previously, I worked with Prof. Yushen Liu and Weiqi Zhang at the School of Software, Tsinghua University.
 
 ## Research Interests
 
-<!-- 在这里写研究方向 -->
+- Humanoid Robotics
+- Vision-Language-Action (VLA)
+- 3D Reconstruction
 
-- **Topic A:** ...
-- **Topic B:** ...
+Long-term research goal: Develop general-purpose intelligent robots capable of robust real-world environmental understanding and task execution.
 
 ## News
 
-<!-- 按时间倒序添加动态，不需要的条目删除即可 -->
-
-- **[Mon. YYYY]** ...
-<!--
-- **[Mon. YYYY]** Another update.
--->
-
-## Education
-
-<!-- 在这里写教育经历 -->
-
-- **Degree**, University, YYYY–YYYY.
-  <!-- GPA / Rank / Selected Courses 等可选 -->
+- **[Autumn 2026]** Incoming exchange student, University of Washington.
+- **[Nov. 2025]** Joined MARS Lab, Tsinghua University.
+- **[2025]** Academic Excellence Scholarship, Tsinghua University.
 
 {% include_relative _includes/publications.md %}
 
+## Education
+
+- **B.S. in Computer Science and Technology**, Tsinghua University, Beijing, China, 2024–Present.  
+  Sophomore. **GPA:** 3.9/4.0, **Rank:** 7/168.  
+  Incoming Exchange Student, University of Washington, Autumn Quarter 2026.
+
 ## Selected Projects
 
-<!-- 不需要项目板块时，删除本整段 -->
+- **[TTT-Parkour](https://ttt-parkour.github.io)** ([arXiv:2602.02331](https://arxiv.org/abs/2602.02331))  
+  Rapid test-time training for perceptive humanoid parkour over complex terrains. Contributed to applying the TTT paradigm and gained extensive hands-on experience with the Unitree G1 robot.
 
-- **Project Name**  
-  Short description.  
-  <!-- [Code](https://github.com/JiaxuanWang-th/...) · [Page](https://...) -->
+- **UNI-Parkour**  
+  Independently led follow-up work investigating scaling laws for terrain generalization. Proposed a unified locomotion policy for humanoids; currently in demo capture stage.
 
 ## Experience
 
-<!-- 不需要经历板块时，删除本整段 -->
-
 ### Academic / Research
 
-- **Lab / Group**, Institution  
-  Role: YYYY.M – Present.  
-  Topics: ... Advisor: ...
+- **MARS Lab, Tsinghua University**  
+  Research Intern (Humanoid Robot Locomotion), Nov. 2025 – Present.  
+  Advisor: Prof. Hang Zhao, Dr. Shaoting Zhu.  
+  Working on general-purpose intelligent robots for robust real-world understanding and task execution, including TTT-Parkour and UNI-Parkour.
 
-### Industry
-
-- **Company**  
-  Role: YYYY.M – YYYY.M.  
-  Topics: ...
+- **School of Software, Tsinghua University**  
+  Research Intern (3D Vision & Generative Models), Jul. 2025 – Oct. 2025.  
+  Advisor: Prof. Yushen Liu, Weiqi Zhang.  
+  Investigated diffusion models for 3D part assembly; built foundational knowledge of 3D vision and generative model pipelines.
 
 ## Honors & Awards
 
-<!-- 不需要奖项时，删除本整段 -->
-
-- **[YYYY]** Award name
-
-## Professional Services
-
-<!-- 不需要服务经历时，删除本整段；或改用下方 include -->
-<!-- {% include_relative _includes/services.md %} -->
-
-### Teaching Assistant
-
-- Course name, Term YYYY. Instructor: ...
-
-### Reviewer
-
-- Conferences: ...
-- Workshops: ...
+- **[2025]** Academic Excellence Scholarship, Tsinghua University.
 
 ## Miscs
 
-<!-- 兴趣爱好等，可选 -->
-
-- ...
+- **Languages:** English (TOEFL iBT Revised: Official Band 5.0, raw score 21/24), Mandarin (Native).
+- **Programming & Tools:** Python, C++, PyTorch, Bash, Git, LaTeX.
+- **Libraries & Simulation:** MeshLab, CloudCompare, Blender, Isaac Lab, InstinctLab.

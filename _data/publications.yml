@@ -1,16 +1,15 @@
 # 发表论文列表
-# 复制下面示例并取消注释；没有论文时保持 main 为空即可
-main: []
+main:
+  - title: "TTT-Parkour: Rapid Test-Time Training for Perceptive Robot Parkour"
+    authors: Shaoting Zhu<sup>*</sup>, Baijun Ye<sup>*</sup>, <strong>Jiaxuan Wang</strong><sup>†</sup>, Jiakang Chen<sup>†</sup>, Ziwen Zhuang, Linzhan Mou, Runhan Huang, Hang Zhao<sup>‡</sup>
+    conference_short: arXiv
+    conference: arXiv preprint, 2026.
+    pdf: https://arxiv.org/pdf/2602.02331.pdf
+    page: https://ttt-parkour.github.io
+    notes: "*† Equal contribution"
+    # image: ./assets/img/teaser_example.png
 
-# 示例（取消注释并改成你的内容）：
-# main:
-#   - title: "Paper Title"
-#     authors: <strong>Your Name</strong>, Coauthor A, Coauthor B
-#     conference_short: CVPR
-#     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.
-#     pdf: https://arxiv.org/pdf/xxxx.xxxxx.pdf
-#     code: https://github.com/JiaxuanWang-th/...
-#     page: https://...
-#     bibtex: https://...
-#     image: ./assets/img/teaser_example.png
-#     notes: Oral
+# 示例字段：
+#   code: https://github.com/JiaxuanWang-th/...
+#   bibtex: https://...
+#   others: ...
