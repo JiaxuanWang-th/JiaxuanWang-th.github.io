@@ -10,9 +10,11 @@ main:
     image: ./assets/img/ttt_parkour_teaser.jpg
 
   - title: "Generalist-Parkour: One Policy for Extreme Humanoid Parkour"
-    authors: Jiakang Chen<sup>*</sup>, <strong>Jiaxuan Wang</strong><sup>*</sup>, Hongyu Zhao<sup>†</sup>, Nian Shen<sup>†</sup> Chuan Qin, Shaoting Zhu<sup>‡</sup>, Hang Zhao<sup>‡</sup>
+    authors: Jiakang Chen<sup>*</sup>, <strong>Jiaxuan Wang</strong><sup>*</sup>, Hongyu Zhao<sup>†</sup>, Nian Shen<sup>†</sup>, Chuan Qin, Shaoting Zhu<sup>‡</sup>, Hang Zhao<sup>‡</sup>
     notes: "*† Equal contribution"
-    image: ./assets/img/generalist_parkour_teaser.jpg
+    conference_short: Preprint
+    conference: In preparation.
+    image: ./assets/img/generalist_parkour_teaser.png
 
 # 示例字段：
 #   code: https://github.com/JiaxuanWang-th/...
