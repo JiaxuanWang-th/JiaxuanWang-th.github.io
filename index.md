@@ -12,8 +12,7 @@ Currently, I am serving as a research intern at [MARS Lab](http://group.iiis.tsi
 
 My long-term research goal is to develop **general-purpose intelligent robots** capable of robust real-world environmental understanding and task execution. Currently, my research interests include:
 
-- **Humanoid Robotics**: Locomotion, parkour, and test-time adaptation for real-world deployment.
-- **Vision-Language-Action (VLA)**: Grounding perception and language for generalist robot policies.
+- **Humanoid Robotics**: Locomotion, Loco-manipulation, VLA models.
 - **3D Vision**: 3D reconstruction and geometry understanding for robotics.
 
 ## News
@@ -38,8 +37,8 @@ My long-term research goal is to develop **general-purpose intelligent robots** 
 - **[TTT-Parkour](https://ttt-parkour.github.io)** · CoRL 2026 · [arXiv](https://arxiv.org/abs/2602.02331)  
   Rapid test-time training for perceptive humanoid parkour over complex terrains. Hands-on experience with the Unitree G1 robot.
 
-- **UNI-Parkour**  
-  Independently led follow-up work on scaling laws for terrain generalization and a unified locomotion policy for humanoids (currently in demo capture).
+- **Gen-Parkour**  · Preprint · In preparation
+  Specialize-then-consolidate: distill per-course experts into one generalist humanoid parkour policy across dozens of extremely difficult real-world courses.
 
 ## Experience
 
