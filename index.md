@@ -18,6 +18,7 @@ My long-term research goal is to develop **general-purpose intelligent robots** 
 
 ## News
 
+- **[Sep. 2026]** 🎉 <b>[TTT-Parkour](https://ttt-parkour.github.io)</b> is accepted to **CoRL 2026**!
 - **[Autumn 2026]** 🌎 Incoming exchange student at the **University of Washington**.
 - **[Feb. 2026]** 🤖 <b>[TTT-Parkour](https://ttt-parkour.github.io)</b> is released on [arXiv](https://arxiv.org/abs/2602.02331)!
 - **[Nov. 2025]** 🔬 Joined [MARS Lab](http://group.iiis.tsinghua.edu.cn/~marslab/), Tsinghua University.
@@ -34,7 +35,7 @@ My long-term research goal is to develop **general-purpose intelligent robots** 
 
 ## Selected Projects
 
-- **[TTT-Parkour](https://ttt-parkour.github.io)** · [arXiv](https://arxiv.org/abs/2602.02331)  
+- **[TTT-Parkour](https://ttt-parkour.github.io)** · CoRL 2026 · [arXiv](https://arxiv.org/abs/2602.02331)  
   Rapid test-time training for perceptive humanoid parkour over complex terrains. Hands-on experience with the Unitree G1 robot.
 
 - **UNI-Parkour**  

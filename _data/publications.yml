@@ -2,12 +2,17 @@
 main:
   - title: "TTT-Parkour: Rapid Test-Time Training for Perceptive Robot Parkour"
     authors: Shaoting Zhu<sup>*</sup>, Baijun Ye<sup>*</sup>, <strong>Jiaxuan Wang</strong><sup>†</sup>, Jiakang Chen<sup>†</sup>, Ziwen Zhuang, Linzhan Mou, Runhan Huang, Hang Zhao<sup>‡</sup>
-    conference_short: arXiv
-    conference: arXiv preprint, 2026.
+    conference_short: CoRL
+    conference: Conference on Robot Learning <strong>(CoRL)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2602.02331.pdf
     page: https://ttt-parkour.github.io
     notes: "*† Equal contribution"
     image: ./assets/img/ttt_parkour_teaser.jpg
+
+  - title: "Generalist-Parkour: One Policy for Extreme Humanoid Parkour"
+    authors: Jiakang Chen<sup>*</sup>, <strong>Jiaxuan Wang</strong><sup>*</sup>, Hongyu Zhao<sup>†</sup>, Nian Shen<sup>†</sup> Chuan Qin, Shaoting Zhu<sup>‡</sup>, Hang Zhao<sup>‡</sup>
+    notes: "*† Equal contribution"
+    image: ./assets/img/generalist_parkour_teaser.jpg
 
 # 示例字段：
 #   code: https://github.com/JiaxuanWang-th/...
