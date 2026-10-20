@@ -4,22 +4,23 @@ layout: homepage
 
 ## About Me
 
-I'm currently a sophomore undergraduate in the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), pursuing a Bachelor's degree in Computer Science and Technology. I will be joining the [University of Washington](https://www.washington.edu/) as an exchange student in Autumn Quarter 2026.
+I'm a sophomore undergraduate student in the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), pursuing a bachelor's degree in Computer Science and Technology. I am currently an exchange student at the [University of Washington](https://www.washington.edu/) for Autumn Quarter 2026.
 
-Currently, I am serving as a research intern at [MARS Lab](http://group.iiis.tsinghua.edu.cn/~marslab/), Tsinghua University, under the supervision of [Prof. Hang Zhao](https://hangzhaomit.github.io/) and [Dr. Shaoting Zhu](https://shaotingzhu.github.io/). Prior to this, I was fortunate to work with [Prof. Yushen Liu](https://yushen-liu.github.io/) and [Weiqi Zhang](https://scholar.google.com/citations?user=sp3zrnYAAAAJ&hl=zh-CN) at the School of Software, Tsinghua University.
+I am a research intern at [RAIVN Lab](https://raivn.cs.washington.edu/), University of Washington, advised by [Prof. Ranjay Krishna](https://ranjaykrishna.com/index.html) and [Dr. Weikai Huang](https://weikaih04.github.io/). I also work as a research intern at [MARS Lab](http://group.iiis.tsinghua.edu.cn/~marslab/), Tsinghua University, under the supervision of [Prof. Hang Zhao](https://hangzhaomit.github.io/) and [Dr. Shaoting Zhu](https://shaotingzhu.github.io/). Previously, I worked with [Prof. Yushen Liu](https://yushen-liu.github.io/) and [Weiqi Zhang](https://scholar.google.com/citations?user=sp3zrnYAAAAJ&hl=zh-CN) at the School of Software, Tsinghua University.
 
 ## Research Interests
 
-My long-term research goal is to develop **general-purpose intelligent robots** capable of robust real-world environmental understanding and task execution. Currently, my research interests include:
+My long-term research goal is to develop **general-purpose intelligent robots** that can reliably understand their environments and perform tasks in the real world. My current research interests include:
 
-- **Humanoid Robotics**: Locomotion, Loco-manipulation, VLA models.
-- **3D Vision**: 3D reconstruction and geometry understanding for robotics.
+- **Humanoid Robotics**: Locomotion, loco-manipulation, vision-language-action (VLA) models, and behavior foundation models.
+- **3D Vision**: 3D reconstruction and geometric understanding for robotics.
 
 ## News
 
-- **[Sep. 2026]** 🎉 <b>[TTT-Parkour](https://ttt-parkour.github.io)</b> is accepted to **CoRL 2026**!
-- **[Autumn 2026]** 🌎 Incoming exchange student at the **University of Washington**.
-- **[Feb. 2026]** 🤖 <b>[TTT-Parkour](https://ttt-parkour.github.io)</b> is released on [arXiv](https://arxiv.org/abs/2602.02331)!
+- **[2026]** 🏆 Honored to receive the **Technology Innovation Scholarship** of Tsinghua University.
+- **[Sep. 2026]** 🎉 **[TTT-Parkour](https://ttt-parkour.github.io)** has been accepted to **CoRL 2026**!
+- **[Autumn 2026]** 🌎 Exchange student at the **University of Washington**.
+- **[Feb. 2026]** 🤖 **[TTT-Parkour](https://ttt-parkour.github.io)** is now available on [arXiv](https://arxiv.org/abs/2602.02331)!
 - **[Nov. 2025]** 🔬 Joined [MARS Lab](http://group.iiis.tsinghua.edu.cn/~marslab/), Tsinghua University.
 - **[2025]** 🏆 Honored to receive the **Academic Excellence Scholarship** of Tsinghua University.
 
@@ -30,19 +31,24 @@ My long-term research goal is to develop **general-purpose intelligent robots** 
 - **B.S. in Computer Science and Technology**, [Tsinghua University](https://www.tsinghua.edu.cn/en/), 2024–Present.  
   Department of Computer Science and Technology.  
   **GPA:** 3.9/4.0, **Rank:** 7/168.  
-  Incoming Exchange Student, University of Washington, Autumn Quarter 2026.
+  Exchange Student, University of Washington, Autumn Quarter 2026.
 
 ## Selected Projects
 
 - **[TTT-Parkour](https://ttt-parkour.github.io)** · CoRL 2026 · [arXiv](https://arxiv.org/abs/2602.02331)  
   Rapid test-time training for perceptive humanoid parkour over complex terrains. Hands-on experience with the Unitree G1 robot.
 
-- **Gen-Parkour**  · Preprint · In preparation
-  Specialize-then-consolidate: distill per-course experts into one generalist humanoid parkour policy across dozens of extremely difficult real-world courses.
+- **Gen-Parkour** · Manuscript in preparation  
+  A specialize-then-consolidate approach that distills per-course experts into a generalist humanoid parkour policy for challenging courses.
 
 ## Experience
 
 ### Academic / Research
+
+- **[UW RAIVN Lab](https://raivn.cs.washington.edu/), University of Washington**  
+  **Research Intern**: Sep. 2026 – Present.  
+  _Topics_: Humanoid behavior foundation models, VLA models.  
+  **Advisors**: [Prof. Ranjay Krishna](https://ranjaykrishna.com/index.html), [Dr. Weikai Huang](https://weikaih04.github.io/).
 
 - **[MARS Lab](http://group.iiis.tsinghua.edu.cn/~marslab/), Tsinghua University**  
   **Research Intern** (Humanoid Robot Locomotion): Nov. 2025 – Present.  
@@ -56,13 +62,15 @@ My long-term research goal is to develop **general-purpose intelligent robots** 
 
 ## Honors & Awards
 
+- **[2026]** Honored to be nominated as a reviewer for 2026 CORL Sim2Real2Field Workshop
+- **[2026]** Technology Innovation Scholarship, Tsinghua University.
 - **[2025]** Academic Excellence Scholarship, Tsinghua University.
 
-## Miscs
+## Miscellaneous
 
-- **Languages:** English (TOEFL iBT Revised: Official Band 5.0, raw score 21/24), Mandarin (Native).
+- **Languages:** English (TOEFL iBT: 5.0/6.0), Mandarin (native).
 - **Programming & Tools:** Python, C++, PyTorch, Bash, Git, LaTeX.
-- **Libraries & Simulation:** MeshLab, CloudCompare, Blender, Isaac Lab, InstinctLab.
+- **3D Tools & Simulation:** MeshLab, CloudCompare, Blender, Isaac Lab, InstinctLab.
 
 ## Gallery
 
@@ -81,11 +89,11 @@ A few photos I've taken along the way.
     </div>
     <div class="gallery-item">
       <img class="gallery-img" src="./assets/img/tsinghua.jpg" alt="Tsinghua">
-      <div class="gallery-caption">Tsinghua, Beijing — playground under sunset after rain · Apr. 2026</div>
+      <div class="gallery-caption">Tsinghua, Beijing — playground at sunset after rain · Apr. 2026</div>
     </div>
     <div class="gallery-item">
       <img class="gallery-img" src="./assets/img/AltarofEarth.jpg" alt="Ditan">
-      <div class="gallery-caption">Ditan, Beijing — Ocean of Ditan, Shi Tiesheng wrote · Mar. 2026</div>
+      <div class="gallery-caption">Ditan, Beijing — remembering Shi Tiesheng · Mar. 2026</div>
     </div>
     <div class="gallery-item">
       <img class="gallery-img" src="./assets/img/lattern.jpg" alt="Xi'an City Wall">
@@ -93,35 +101,35 @@ A few photos I've taken along the way.
     </div>
     <div class="gallery-item">
       <img class="gallery-img" src="./assets/img/howth.jpg" alt="Howth">
-      <div class="gallery-caption">Howth, Ireland — Fáilte go Binn Éadair  · Jan. 2026</div>
+      <div class="gallery-caption">Howth, Ireland — Fáilte go Binn Éadair · Jan. 2026</div>
     </div>
     <div class="gallery-item">
       <img class="gallery-img" src="./assets/img/kensingtongarden.jpg" alt="Kensington Gardens">
       <div class="gallery-caption">Kensington Gardens, England · Jan. 2026</div>
     </div>
     <div class="gallery-item">
-      <img class="gallery-img" src="./assets/img/firework.jpg" alt="Firework on an aircraft carrier">
-      <div class="gallery-caption">Tianjin, China - huge Tiananmen‑patterned fireworks over an aircraft carrier · Oct. 2025</div>
+      <img class="gallery-img" src="./assets/img/firework.jpg" alt="Fireworks over an aircraft carrier">
+      <div class="gallery-caption">Tianjin, China — Tiananmen-patterned fireworks over an aircraft carrier · Oct. 2025</div>
     </div>
     <div class="gallery-item">
       <img class="gallery-img" src="./assets/img/donglingshan.jpg" alt="Mount Dongling">
-      <div class="gallery-caption">Zhangjiakou, China - Early‑autumn mountain ranges· Sep. 2025</div>
+      <div class="gallery-caption">Zhangjiakou, China — mountain ranges in early autumn · Sep. 2025</div>
     </div>
     <div class="gallery-item">
-      <img class="gallery-img" src="./assets/img/chengdu.jpg" alt="Laojun Mountain Golden Summit">
-      <div class="gallery-caption">Laojun Mountain, Luoyang - Golden Hall built atop a 2217‑meter‑high mountain peak · Aug. 2025</div>
+      <img class="gallery-img" src="./assets/img/laojunshan.jpg" alt="Laojun Mountain Golden Summit">
+      <div class="gallery-caption">Laojun Mountain, Luoyang — golden halls atop the mountain · Aug. 2025</div>
     </div>
     <div class="gallery-item">
-      <img class="gallery-img" src="./assets/img/laojunshan.jpg" alt="Laojunshan">
-      <div class="gallery-caption">Sanxingdui, Chengdu - 3100‑year‑old bronze relic of the Ancient‑Shu Culture · Jun. 2025</div>
+      <img class="gallery-img" src="./assets/img/chengdu.jpg" alt="Bronze sacred tree at Sanxingdui">
+      <div class="gallery-caption">Sanxingdui — bronze sacred tree from the ancient Shu culture · Jun. 2025</div>
     </div>
     <div class="gallery-item">
       <img class="gallery-img" src="./assets/img/dalian.jpg" alt="Qixian Ridge">
-      <div class="gallery-caption">Qixian Ridge, Dalian - Coastal forest park overlooking the Yellow Sea · May. 2025</div>
+      <div class="gallery-caption">Qixian Ridge, Dalian — coastal forest park overlooking the Yellow Sea · May 2025</div>
     </div>
     <div class="gallery-item">
       <img class="gallery-img" src="./assets/img/greatwall.jpg" alt="Shuiguan Great Wall">
-      <div class="gallery-caption">Yanqing, Beijing - Ming‑dynasty Great Wall built through mountain valley · Oct. 2024</div>
+      <div class="gallery-caption">Yanqing, Beijing — the Ming-dynasty Great Wall winding through a mountain valley · Oct. 2024</div>
     </div>
     <div class="gallery-side-nav">
       <button class="gallery-btn prev" aria-label="Previous image">
