@@ -6,7 +6,7 @@ layout: homepage
 
 I'm a sophomore undergraduate student in the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), pursuing a bachelor's degree in Computer Science and Technology. I am currently an exchange student at the [University of Washington](https://www.washington.edu/) for Autumn Quarter 2026.
 
-I am a research intern at [RAIVN Lab](https://raivn.cs.washington.edu/), University of Washington, advised by [Prof. Ranjay Krishna](https://ranjaykrishna.com/index.html) and [Dr. Weikai Huang](https://weikaih04.github.io/). I also work as a research intern at [MARS Lab](http://group.iiis.tsinghua.edu.cn/~marslab/), Tsinghua University, under the supervision of [Prof. Hang Zhao](https://hangzhaomit.github.io/) and [Dr. Shaoting Zhu](https://shaotingzhu.github.io/). Previously, I worked with [Prof. Yushen Liu](https://yushen-liu.github.io/) and [Weiqi Zhang](https://scholar.google.com/citations?user=sp3zrnYAAAAJ&hl=zh-CN) at the School of Software, Tsinghua University.
+I am a research intern at [RAIVN Lab](https://raivn.cs.washington.edu/), University of Washington, advised by [Prof. Ranjay Krishna](https://ranjaykrishna.com/index.html) and [Dr. Weikai Huang](https://weikaih04.github.io/). I also work as a research intern at [MARS Lab](http://group.iiis.tsinghua.edu.cn/~marslab/), Tsinghua University, under the supervision of [Prof. Hang Zhao](https://hangzhaomit.github.io/) and [Dr. Shaoting Zhu](https://shaotingzhu.github.io/). Previously, I worked with [Prof. Yushen Liu](https://yushen-liu.github.io/) and [Dr. Weiqi Zhang](https://scholar.google.com/citations?user=sp3zrnYAAAAJ&hl=zh-CN) at the School of Software, Tsinghua University.
 
 ## Research Interests
 
@@ -17,6 +17,7 @@ My long-term research goal is to develop **general-purpose intelligent robots** 
 
 ## News
 
+- **[Oct. 2026]** 🎉 **Generalist-Parkour** has been accepted to the **Sim2Real2Field** and **Everything Beneath the Policy (WEBP)** workshops at **CoRL 2026**!
 - **[2026]** 🏆 Honored to receive the **Technology Innovation Scholarship** of Tsinghua University.
 - **[Sep. 2026]** 🎉 **[TTT-Parkour](https://ttt-parkour.github.io)** has been accepted to **CoRL 2026**!
 - **[Autumn 2026]** 🌎 Exchange student at the **University of Washington**.
@@ -38,7 +39,7 @@ My long-term research goal is to develop **general-purpose intelligent robots** 
 - **[TTT-Parkour](https://ttt-parkour.github.io)** · CoRL 2026 · [arXiv](https://arxiv.org/abs/2602.02331)  
   Rapid test-time training for perceptive humanoid parkour over complex terrains. Hands-on experience with the Unitree G1 robot.
 
-- **Gen-Parkour** · Manuscript in preparation  
+- **Gen-Parkour** · Sim2Real2Field & WEBP Workshops, CoRL 2026  
   A specialize-then-consolidate approach that distills per-course experts into a generalist humanoid parkour policy for challenging courses.
 
 ## Experience
@@ -62,7 +63,7 @@ My long-term research goal is to develop **general-purpose intelligent robots** 
 
 ## Honors & Awards
 
-- **[2026]** Honored to be nominated as a reviewer for 2026 CORL Sim2Real2Field Workshop
+- **[2026]** Honored to be nominated as a reviewer for the Sim2Real2Field Workshop at CoRL 2026.
 - **[2026]** Technology Innovation Scholarship, Tsinghua University.
 - **[2025]** Academic Excellence Scholarship, Tsinghua University.
 

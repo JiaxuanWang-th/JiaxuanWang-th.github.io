@@ -12,8 +12,8 @@ main:
   - title: "Generalist-Parkour: One Policy for Extreme Humanoid Parkour"
     authors: Jiakang Chen<sup>*</sup>, <strong>Jiaxuan Wang</strong><sup>*</sup>, Hongyu Zhao<sup>†</sup>, Nian Shen<sup>†</sup>, Chuan Qin, Shaoting Zhu<sup>‡</sup>, Hang Zhao<sup>‡</sup>
     notes: "*† Equal contribution"
-    conference_short: In preparation
-    conference: Manuscript in preparation.
+    conference_short: CoRL Workshops
+    conference: Sim2Real2Field Workshop, CoRL 2026.<br>Workshop on Everything Beneath the Policy <strong>(WEBP)</strong>, CoRL 2026.
     image: ./assets/img/generalist_parkour_teaser.png
 
 # 示例字段：
