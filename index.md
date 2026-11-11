@@ -39,7 +39,7 @@ My long-term research goal is to develop **general-purpose intelligent robots** 
 - **[TTT-Parkour](https://ttt-parkour.github.io)** · CoRL 2026 · [arXiv](https://arxiv.org/abs/2602.02331)  
   Rapid test-time training for perceptive humanoid parkour over complex terrains. Hands-on experience with the Unitree G1 robot.
 
-- **Gen-Parkour** · Sim2Real2Field & WEBP Workshops, CoRL 2026  
+- **[Gen-Parkour](https://www.alphaxiv.org/abs/2611.generalist-parkour)** · Sim2Real2Field & WEBP Workshops, CoRL 2026 · [OpenReview PDF](https://openreview.net/pdf?id=wZHmhWKEeX)<br>
   A specialize-then-consolidate approach that distills per-course experts into a generalist humanoid parkour policy for challenging courses.
 
 ## Experience

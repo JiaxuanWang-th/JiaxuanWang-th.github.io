@@ -1,4 +1,5 @@
 title: Jiaxuan Wang
+seo_title: Jiaxuan Wang (王嘉璇) | Humanoid Robotics · Tsinghua University
 position: Undergraduate Student
 affiliation: Tsinghua University
 affiliation_link: https://www.tsinghua.edu.cn/en/
@@ -6,11 +7,14 @@ email: wang-jx24@mails.tsinghua.edu.cn
 chinese_name: 王嘉璇
 
 keywords: Jiaxuan Wang, Tsinghua University, humanoid robotics, VLA, 3D reconstruction
-description: Personal homepage of Jiaxuan Wang — undergraduate at Tsinghua University, researching humanoid robotics at MARS Lab.
+description: Jiaxuan Wang (王嘉璇) researches humanoid robotics and humanoid parkour at Tsinghua University and the University of Washington, with work at CoRL 2026.
 canonical: https://jiaxuanwang-th.github.io/
 
 # Links
-# google_scholar: https://scholar.google.com/
+# Add verified personal profile URLs to enable header links and Person sameAs.
+google_scholar: https://scholar.google.com/citations?user=ECWO7AoAAAAJ&hl=zh-CN
+orcid: https://orcid.org/0009-0001-9009-421X
+alphaxiv_profile: https://www.alphaxiv.org/@jiaxuan-wang-4
 cv_link: assets/files/resume.pdf
 github_link: https://github.com/JiaxuanWang-th
 # twitter: https://twitter.com/

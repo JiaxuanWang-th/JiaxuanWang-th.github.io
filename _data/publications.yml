@@ -10,6 +10,7 @@ main:
     image: ./assets/img/ttt_parkour_teaser.jpg
 
   - title: "Generalist-Parkour: One Policy for Extreme Humanoid Parkour"
+    alphaxiv: https://www.alphaxiv.org/abs/2611.generalist-parkour
     pdf: https://openreview.net/pdf?id=wZHmhWKEeX
     authors: Jiakang Chen<sup>*</sup>, <strong>Jiaxuan Wang</strong><sup>*</sup>, Hongyu Zhao<sup>†</sup>, Nian Shen<sup>†</sup>, Chuan Qin, Shaoting Zhu<sup>‡</sup>, Hang Zhao<sup>‡</sup>
     notes: "*† Equal contribution"
